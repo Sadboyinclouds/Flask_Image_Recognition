@@ -1,3 +1,4 @@
+#change check for pylint
 # Importing required libs
 from flask import Flask, render_template, request
 from model import preprocess_img, predict_result
